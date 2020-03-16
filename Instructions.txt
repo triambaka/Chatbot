@@ -1,0 +1,2 @@
+Compile using : mingw32-make -f make1.mk
+Run using: a
